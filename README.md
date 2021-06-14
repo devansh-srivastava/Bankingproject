@@ -1,7 +1,8 @@
 # Bankingproject
 Made BY: Devansh Srivastava
 
-Sparks Foundation Internship Project : Basic Banking System
+Sparks Foundation Internship Project : Basic Banking System.
+
 It is a Web Application used to transfer money between multiple users.
 
 Front-end : HTML, CSS, Bootstrap & Javascript
